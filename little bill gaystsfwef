@@ -1,0 +1,5 @@
+git commit --global user.name ""
+git commit --global user.email ""
+
+
+hi
